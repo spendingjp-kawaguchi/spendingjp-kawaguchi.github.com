@@ -16,19 +16,19 @@ OpenSpending.year = '2013';
 OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
-    '1': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' }, //議会
-    '2': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#935B3B' }, //総務
-    '3': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#935B3B' }, //民生 / 徴税
-    '4': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#935B3B' }, //衛生 / 戸籍住民基本台帳
-    '5': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#935B3B' }, //労務 / 選挙
-    '6': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#935B3B' }, //農業 / 統計調査
-    '7': { icon: 'icons/human-resources.svg', color: '#C75746', bcolor: '#935B3B' }, //商工 / 監視委員
-    '8': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#935B3B' }, //土木 / 社会福祉
-    '9': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#935B3B' }, //消防 / 老人福祉
-    '10': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#935B3B' }, //教育 / 児童福祉
-    '11': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#935B3B' }, //公債 / 生活保護
-    '12': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#935B3B' }, //諸支出 / 災害救助
-    '13': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#935B3B' }, //予備 / 保健衛生
+    '1': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#804000'  }, //議会
+    '2': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#408000' }, //総務
+    '3': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#008040' }, //民生 / 徴税
+    '4': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#004080' }, //衛生 / 戸籍住民基本台帳
+    '5': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#400080' }, //労務 / 選挙
+    '6': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#800040' }, //農業 / 統計調査
+    '7': { icon: 'icons/human-resources.svg', color: '#C75746', bcolor: '#666666' }, //商工 / 監視委員
+    '8': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#999999' }, //土木 / 社会福祉
+    '9': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#ff8000' }, //消防 / 老人福祉
+    '10': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#ff0080' }, //教育 / 児童福祉
+    '11': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#0000ff' }, //公債 / 生活保護
+    '12': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#6666ff' }, //諸支出 / 災害救助
+    '13': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#333333' }, //予備 / 保健衛生
     '14': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#935B3B' }, //清掃
     '15': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#935B3B' }, //環境保全
     '16': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#935B3B' }, //労働諸費
